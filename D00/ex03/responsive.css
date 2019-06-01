@@ -1,0 +1,79 @@
+        .wrapper table
+		{
+			margin: 0 auto;
+		}
+		
+		table  td
+		{
+			text-align: center;
+			position: relative;
+			border: 1px solid rgb(0, 12, 17);
+			width: 170px;
+			height: 6vw;
+		}
+		h2{
+			margin: 0;
+			font-size: 1vw;
+		}
+		h1{
+			text-align: center;
+			color: white;
+		}
+		.no_border{
+			border: none;
+		}
+		.num{
+			position: absolute;
+			text-align: left;
+			margin: 0;
+			bottom: 0;
+		}
+		.masse{
+			position: absolute;
+			text-align: right;
+			margin: 0;
+			top: 0;
+			right: 0;
+			margin-right: 3px;
+		}
+		td p{
+			font-size: 1vw;
+		}
+		.green{
+			background-color: rgb(153, 250, 62);
+		}
+		.green_bold{
+			background-color: rgb(6, 140, 250);
+		}
+		.orange{
+			background-color: rgb(164, 85, 255);
+		}
+		.grey{
+			background-color: rgb(255, 196, 0);
+		}
+		.yellow{
+			background-color: rgb(248, 244, 0);
+		}
+		.blue_white{
+			background-color: rgb(35, 224, 174);
+		}
+		.blue_bold{
+			background-color: rgb(255, 0, 0);
+		}
+		.magent{
+			background-color: rgb(0, 167, 56);
+		}
+		.bold_orange{
+			background-color: rgb(255, 85, 0);
+		}
+		.violet{
+			background-color: rgb(0, 204, 255);
+		}
+		img{
+			width: 10vw;
+			float: middle;
+			position: relative;
+		}
+		body{
+			background-image: url(https://www.hdwallpapers.in/download/northern_lights_abstract_5k-HD.jpg);	
+		}
